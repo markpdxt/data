@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2020-12-27T03:34:03Z</time></metadata><trk><name>Bellingham ↔ Point Roberts</name><desc>bicycle=yes
+duration=2:00
+fee=no
+foot=yes
+name=Bellingham ↔ Point Roberts
+operator=Bellingham Port Authority
+route=ferry
+vehicle=no
+website=https://www.portofbellingham.com/943/Point-Roberts-Emergency-Ferry
+wheelchair=yes</desc><link href="http://osm.org/browse/way/849347895"/><trkseg><trkpt lat="48.7222395" lon="-122.5132227"/><trkpt lat="48.7241886" lon="-122.5131982"/><trkpt lat="48.7250213" lon="-122.5142192"/><trkpt lat="48.7254589" lon="-122.5169122"/><trkpt lat="48.7261267" lon="-122.5222181"/><trkpt lat="48.7246949" lon="-122.5326831"/><trkpt lat="48.7187469" lon="-122.5453825"/><trkpt lat="48.7123047" lon="-122.5476569"/><trkpt lat="48.7038453" lon="-122.5509988"/><trkpt lat="48.6570179" lon="-122.541261"/><trkpt lat="48.6324868" lon="-122.5497766"/><trkpt lat="48.625979" lon="-122.5612884"/><trkpt lat="48.6226245" lon="-122.5802009"/><trkpt lat="48.622181" lon="-122.6239449"/><trkpt lat="48.6243889" lon="-122.6388881"/><trkpt lat="48.6352032" lon="-122.6586882"/><trkpt lat="48.6478817" lon="-122.6723102"/><trkpt lat="48.6611845" lon="-122.6853272"/><trkpt lat="48.6827987" lon="-122.7031707"/><trkpt lat="48.7549433" lon="-122.7597259"/><trkpt lat="48.7626393" lon="-122.7727321"/><trkpt lat="48.7869619" lon="-122.8477481"/><trkpt lat="48.8154497" lon="-122.9032619"/><trkpt lat="48.9703297" lon="-123.0632687"/><trkpt lat="48.972189" lon="-123.0652428"/><trkpt lat="48.9730059" lon="-123.0652428"/><trkpt lat="48.973837" lon="-123.0633974"/><trkpt lat="48.9742172" lon="-123.0630326"/><trkpt lat="48.9754426" lon="-123.0632687"/><trkpt lat="48.9763933" lon="-123.0639553"/><trkpt lat="48.9769003" lon="-123.0644488"/><trkpt lat="48.9771005" lon="-123.0645294"/></trkseg></trk></gpx>
